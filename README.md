@@ -47,6 +47,7 @@ public class SoftwareEngineer {
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Html5-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Css3-informational?style=flat&logo=Css3&logoColor=white&color=6aa6f8)
+
 ![](https://img.shields.io/badge/Editor-IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-DataGrip-informational?style=flat&logo=DataGrip&logoColor=white&color=6aa6f8)
@@ -54,6 +55,7 @@ public class SoftwareEngineer {
 ![](https://img.shields.io/badge/Editor-Clion-informational?style=flat&logo=clion&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=6aa6f8)
+
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
@@ -61,6 +63,7 @@ public class SoftwareEngineer {
 ![](https://img.shields.io/badge/DataBase-Oracle-informational?style=flat&logo=Oracle&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/DataBase-Redis-informational?style=flat&logo=redis&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+
 ![](https://img.shields.io/badge/Frame-Spring-informational?style=flat&logo=spring&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Frame-SpringBoot-informational?style=flat&logo=springboot&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Frame-Hibernate-informational?style=flat&logo=hibernate&logoColor=white&color=6aa6f8)
@@ -78,4 +81,3 @@ public class SoftwareEngineer {
 
 ![hexWars's github stats](https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight)
 
-![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=hexWars&layout=compact)
