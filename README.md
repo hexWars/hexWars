@@ -71,6 +71,7 @@ me.hello()
 ![](https://img.shields.io/badge/Frame-SpringBoot-informational?style=flat&logo=springboot&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Frame-Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=6aa6f8)
 
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexWars&layout=compact&langs_count=10&theme=dracula">
 
 ## 🍁 Favorite sites
 
@@ -84,7 +85,7 @@ me.hello()
 ![](https://img.shields.io/badge/Github-informational?style=social&logo=github&color=6aa6f8)
 ![](https://img.shields.io/badge/Gitee-informational?style=social&logo=gitee&color=6aa6f8)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexWars&layout=compact&langs_count=10&theme=dracula">
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236DABFF&size=30&width=500&lines=Like+author%2C+like+book.)](https://git.io/typing-svg)
 
