@@ -37,11 +37,9 @@ me.hello()
 
 - Personal website and blog: [https://blog.csdn.net/Dueser](https://blog.csdn.net/Dueser)
 
-
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
 
 ## 🔧 Languages & Tools
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
@@ -77,4 +75,11 @@ me.hello()
 ![](https://img.shields.io/badge/Github-informational?style=social&logo=github&color=6aa6f8)
 ![](https://img.shields.io/badge/Gitee-informational?style=social&logo=gitee&color=6aa6f8)
 
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236DABFF&size=30&width=500&lines=Like+author%2C+like+book.)](https://git.io/typing-svg)
+
+
+
+
+
