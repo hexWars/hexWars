@@ -41,7 +41,7 @@ me.say_hi()
 
 ## 🔧 Languages & Tools
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=JohnNiang&show_icons=true&theme=tokyonight">
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
@@ -91,12 +91,6 @@ me.say_hi()
 ![](https://img.shields.io/badge/Switch-informational?style=social&logo=nintendoswitch&color=6aa6f8)
 ![](https://img.shields.io/badge/Github-informational?style=social&logo=github&color=6aa6f8)
 ![](https://img.shields.io/badge/Gitee-informational?style=social&logo=gitee&color=6aa6f8)
-
-
-
-
-
-
 
 
 
