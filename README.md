@@ -4,6 +4,7 @@
 [![](https://img.shields.io/badge/-@hexWars-%23000000?style=flat-square&logo=gitee)](https://gitee.com/hex-cxm)
 [![](https://img.shields.io/badge/-@hexWars-%23000000?style=flat-square&logo=leetcode)](https://leetcode-cn.com/u/hexWars/)
 [![](https://img.shields.io/badge/-@Dueser-%23000000?style=flat-square&logo=codeforces)](https://codeforces.com/profile/Dueser)
+<a href="https://wakatime.com/@05a07c08-5f73-4506-8c28-410e368c2294"><img src="https://wakatime.com/badge/user/05a07c08-5f73-4506-8c28-410e368c2294.svg" alt="Total time coded since Dec 6 2021" /></a>
 
 
 𝓘 ❤️ 𝖆𝖒 𝖆𝖓 𝖚𝖓𝖉𝖊𝖗𝖌𝖗𝖆𝖉𝖚𝖆𝖙𝖊 𝖘𝖙𝖚𝖉𝖊𝖓𝖙
@@ -37,9 +38,15 @@ me.hello()
 
 - Personal website and blog: [https://blog.csdn.net/Dueser](https://blog.csdn.net/Dueser)
 
+## 🔧 Languages & Tools
+
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
 
-## 🔧 Languages & Tools
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexWars&layout=compact&langs_count=10&theme=dracula">
+
+
+
+
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
@@ -78,8 +85,6 @@ me.hello()
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236DABFF&size=30&width=500&lines=Like+author%2C+like+book.)](https://git.io/typing-svg)
-
-
 
 
 
