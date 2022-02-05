@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236AA6F8&lines=Like+author%2C+like+book.)](https://git.io/typing-svg)
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Cai wj
 
 [![](https://img.shields.io/badge/-@hexWars-%23181717?style=flat-square&logo=github)](https://github.com/hexWars)
 [![](https://img.shields.io/badge/-@hexWars-%23000000?style=flat-square&logo=gitee)](https://gitee.com/hex-cxm)
@@ -24,11 +24,11 @@ class SoftwareEngineer:
         self.language_spoken = ["zh_CN", "en_US"]
         self.code = ["Javascript", "Python", "Java", "C++", "and so on"]
         
-    def say_hi(self):
+    def hello(self):
         print("nice to meet you")
         
 me = SoftwareEngineer()
-me.say_hi()
+me.hello()
 ```
 
 
@@ -77,3 +77,4 @@ me.say_hi()
 ![](https://img.shields.io/badge/Github-informational?style=social&logo=github&color=6aa6f8)
 ![](https://img.shields.io/badge/Gitee-informational?style=social&logo=gitee&color=6aa6f8)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236DABFF&size=30&width=500&lines=Like+author%2C+like+book.)](https://git.io/typing-svg)
