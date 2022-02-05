@@ -40,13 +40,7 @@ me.hello()
 
 ## 🔧 Languages & Tools
 
-<div align='right' >
-
-<img src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexWars&layout=compact&langs_count=10&theme=dracula">
-
-</div>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
 
 
 
@@ -66,7 +60,6 @@ me.hello()
 
 
 
-
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
@@ -77,6 +70,7 @@ me.hello()
 ![](https://img.shields.io/badge/Frame-Spring-informational?style=flat&logo=spring&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Frame-SpringBoot-informational?style=flat&logo=springboot&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Frame-Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=6aa6f8)
+
 
 ## 🍁 Favorite sites
 
@@ -90,7 +84,7 @@ me.hello()
 ![](https://img.shields.io/badge/Github-informational?style=social&logo=github&color=6aa6f8)
 ![](https://img.shields.io/badge/Gitee-informational?style=social&logo=gitee&color=6aa6f8)
 
-
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexWars&layout=compact&langs_count=10&theme=dracula">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236DABFF&size=30&width=500&lines=Like+author%2C+like+book.)](https://git.io/typing-svg)
 
