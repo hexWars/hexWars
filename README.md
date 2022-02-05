@@ -40,9 +40,11 @@ me.hello()
 
 ## 🔧 Languages & Tools
 
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexWars&layout=compact&langs_count=10&theme=dracula">
+<br>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexWars&layout=compact&langs_count=10&theme=dracula">
+
 
 
 
