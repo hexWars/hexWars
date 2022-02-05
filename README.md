@@ -37,9 +37,11 @@ me.say_hi()
 
 - Personal website and blog: [https://blog.csdn.net/Dueser](https://blog.csdn.net/Dueser)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
+
 
 ## 🔧 Languages & Tools
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
