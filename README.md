@@ -4,8 +4,8 @@
 [![](https://img.shields.io/badge/-@hexWars-%23000000?style=flat-square&logo=gitee)](https://gitee.com/hex-cxm)
 [![](https://img.shields.io/badge/-@hexWars-%23000000?style=flat-square&logo=leetcode)](https://leetcode-cn.com/u/hexWars/)
 [![](https://img.shields.io/badge/-@Dueser-%23000000?style=flat-square&logo=codeforces)](https://codeforces.com/profile/Dueser)
-<a href="https://wakatime.com/@05a07c08-5f73-4506-8c28-410e368c2294"><img src="https://wakatime.com/badge/user/05a07c08-5f73-4506-8c28-410e368c2294.svg" alt="Total time coded since Dec 6 2021" /></a>
 
+<a href="https://wakatime.com/@05a07c08-5f73-4506-8c28-410e368c2294"><img src="https://wakatime.com/badge/user/05a07c08-5f73-4506-8c28-410e368c2294.svg" alt="Total time coded since Dec 6 2021" /></a>
 
 𝓘 ❤️ 𝖆𝖒 𝖆𝖓 𝖚𝖓𝖉𝖊𝖗𝖌𝖗𝖆𝖉𝖚𝖆𝖙𝖊 𝖘𝖙𝖚𝖉𝖊𝖓𝖙
 
@@ -71,7 +71,6 @@ me.hello()
 ![](https://img.shields.io/badge/Frame-SpringBoot-informational?style=flat&logo=springboot&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Frame-Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=6aa6f8)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexWars&layout=compact&langs_count=10&theme=dracula">
 
 ## 🍁 Favorite sites
 
