@@ -46,8 +46,6 @@ me.hello()
 
 
 
-
-
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
@@ -55,6 +53,8 @@ me.hello()
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-DataGrip-informational?style=flat&logo=DataGrip&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=6aa6f8)
+
+<br><br><br><br><br><br>
 
 ## 💾 Technology being learned
 
