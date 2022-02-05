@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/-@hexWars-%23000000?style=flat-square&logo=leetcode)](https://leetcode-cn.com/u/hexWars/)
 [![](https://img.shields.io/badge/-@Dueser-%23000000?style=flat-square&logo=codeforces)](https://codeforces.com/profile/Dueser)
 
-<a href="https://wakatime.com/@05a07c08-5f73-4506-8c28-410e368c2294"><img src="https://wakatime.com/badge/user/05a07c08-5f73-4506-8c28-410e368c2294.svg" alt="Total time coded since Dec 6 2021" /></a>
+
 
 𝓘 ❤️ 𝖆𝖒 𝖆𝖓 𝖚𝖓𝖉𝖊𝖗𝖌𝖗𝖆𝖉𝖚𝖆𝖙𝖊 𝖘𝖙𝖚𝖉𝖊𝖓𝖙
 
@@ -54,7 +54,9 @@ me.hello()
 ![](https://img.shields.io/badge/Editor-DataGrip-informational?style=flat&logo=DataGrip&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=6aa6f8)
 
-<br><br><br><br>
+<a href="https://wakatime.com/@05a07c08-5f73-4506-8c28-410e368c2294"><img src="https://wakatime.com/badge/user/05a07c08-5f73-4506-8c28-410e368c2294.svg" alt="Total time coded since Dec 6 2021" /></a>
+
+<br><br><br>
 
 ## 💾 Technology being learned
 
