@@ -40,8 +40,6 @@ me.hello()
 
 ## 🔧 Languages & Tools
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexWars&layout=compact&langs_count=10&theme=dracula">
-<br>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
 
 
@@ -58,8 +56,10 @@ me.hello()
 ![](https://img.shields.io/badge/Editor-DataGrip-informational?style=flat&logo=DataGrip&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=6aa6f8)
 
-
 ## 💾 Technology being learned
+
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexWars&layout=compact&langs_count=10&theme=dracula">
+
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
