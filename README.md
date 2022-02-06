@@ -18,7 +18,7 @@
   <img src="https://wakatime.com/badge/user/05a07c08-5f73-4506-8c28-410e368c2294.svg?style=flat-square" alt="Total time coded since Dec 6 2021" >
 </a>
 
-<br>
+<br><br>
 
 𝓘 ❤️ 𝖆𝖒 𝖆𝖓 𝖚𝖓𝖉𝖊𝖗𝖌𝖗𝖆𝖉𝖚𝖆𝖙𝖊 𝖘𝖙𝖚𝖉𝖊𝖓𝖙
 
