@@ -47,9 +47,10 @@ me.hello()
 
 
 
-## 📜 Personal site
+## 📜 Personal
 
 - Personal website and blog: [https://blog.csdn.net/Dueser](https://blog.csdn.net/Dueser)
+- e-mail: cxm71701@gmail.com
 
 ## 🔧 Languages & Tools
 
