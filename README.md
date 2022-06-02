@@ -11,9 +11,6 @@
 <a href="https://github.com/hexWars?tab=repositories">
    <img src="https://badges.pufler.dev/repos/hexWars?style=flat-square&color=black&logo=github">
 </a>
-<a href="https://github.com/hexWars">
-  <img src="https://badges.pufler.dev/commits/monthly/hexWars?style=flat-square&color=black&logo=github">
-</a>
 <a href="https://wakatime.com/@05a07c08-5f73-4506-8c28-410e368c2294">
   <img src="https://wakatime.com/badge/user/05a07c08-5f73-4506-8c28-410e368c2294.svg?style=flat-square" alt="Total time coded since Dec 6 2021" >
 </a>
@@ -24,28 +21,9 @@
 
 :computer:𝕴'𝖒 𝖙𝖗𝖞𝖎𝖓𝖌 𝖙𝖔 𝖑𝖊𝖆𝖗𝖓 𝕴𝕿 𝖙𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖞
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Cai wj"
-        self.MBTI = "INFJ"
-        self.height = "172cm"
-        self.hobby = ["code", "game", "fiction", "and so on"]
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
-        self.code = ["Javascript", "Python", "Java", "C++", "and so on"]
-        
-    def hello(self):
-        print("nice to meet you")
-        
-me = SoftwareEngineer()
-me.hello()
-```
 
 
+![61](61.jpg)
 
 ## 📜 Personal
 
