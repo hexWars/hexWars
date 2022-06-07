@@ -9,7 +9,6 @@
 [![](https://img.shields.io/badge/-@hexWars-%23000000?style=flat-square&logo=leetcode)](https://leetcode-cn.com/u/hexWars/)
 [![](https://img.shields.io/badge/-@Dueser-%23000000?style=flat-square&logo=codeforces)](https://codeforces.com/profile/Dueser)
 
-
 <a href="https://github.com/hexWars">
   <img src="https://badges.pufler.dev/years/hexWars?style=flat-square&color=black&logo=github">
 </a>
@@ -29,14 +28,27 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E4E4E4&lines=The+darkest+hour+is+that+before+the+dawn.+)](https://git.io/typing-svg)
 
-
 ## 📷 Memory
 
-<img align='left' src="61.jpg" width=160px height=100px>
+<div style="display: inline-block;">
+    <div>
+		<img align='left' src="61.jpg" width=160px height=100px>
+    </div>
+    <div>
+        <img align='left' src="53.jpg" width=160px height=100px>
+    </div>
+    <div>
+        <img align='left' src="61-2.jpg" width=160px height=200px>
+    </div>
+</div>
 
-<img align='left' src="53.jpg" width=160px height=100px>
 
-<img align='left' src="61-2.jpg" width=160px height=200px>
+
+
+
+
+
+
 
 ## 📜 Personal
 
