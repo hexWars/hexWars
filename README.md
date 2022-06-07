@@ -1,10 +1,15 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Cai wj
 
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
+
+<img align='left' src="https://github-readme-streak-stats.herokuapp.com?user=hexWars&theme=tokyonight">
+
 [![](https://img.shields.io/badge/-@hexWars-%23181717?style=flat-square&logo=github)](https://github.com/hexWars)
 [![](https://img.shields.io/badge/-@hexWars-%23000000?style=flat-square&logo=gitee)](https://gitee.com/hex-cxm)
 [![](https://img.shields.io/badge/-@hexWars-%23000000?style=flat-square&logo=leetcode)](https://leetcode-cn.com/u/hexWars/)
 [![](https://img.shields.io/badge/-@Dueser-%23000000?style=flat-square&logo=codeforces)](https://codeforces.com/profile/Dueser)
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
+
+
 <a href="https://github.com/hexWars">
   <img src="https://badges.pufler.dev/years/hexWars?style=flat-square&color=black&logo=github">
 </a>
@@ -15,7 +20,6 @@
   <img src="https://wakatime.com/badge/user/05a07c08-5f73-4506-8c28-410e368c2294.svg?style=flat-square" alt="Total time coded since Dec 6 2021" >
 </a>
 
-<br>
 
 
 𝓘 ❤️ 𝖆𝖒 𝖆𝖓 𝖚𝖓𝖉𝖊𝖗𝖌𝖗𝖆𝖉𝖚𝖆𝖙𝖊 𝖘𝖙𝖚𝖉𝖊𝖓𝖙
@@ -24,7 +28,11 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E4E4E4&lines=The+darkest+hour+is+that+before+the+dawn.+)](https://git.io/typing-svg)
-![61](https://raw.githubusercontent.com/hexWars/hexWars/main/61.jpg)
+
+
+## 📷 Memory
+
+<img src="https://raw.githubusercontent.com/hexWars/hexWars/main/61.jpg" width=200px height=125px>
 
 ## 📜 Personal
 
