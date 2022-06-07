@@ -1,5 +1,7 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Cai wj
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E4E4E4&lines=Live+well+and+meet+slowly.)](https://git.io/typing-svg)
+
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
 
 <img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=hexWars&theme=tokyonight">
@@ -25,7 +27,7 @@
 
 :computer:𝕴'𝖒 𝖙𝖗𝖞𝖎𝖓𝖌 𝖙𝖔 𝖑𝖊𝖆𝖗𝖓 𝕴𝕿 𝖙𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖞
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E4E4E4&lines=Live+well+and+meet+slowly.)](https://git.io/typing-svg)
+
 
 ## 📷 Memory
 
