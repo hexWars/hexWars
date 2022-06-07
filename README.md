@@ -32,7 +32,11 @@
 
 ## 📷 Memory
 
-<img src="https://raw.githubusercontent.com/hexWars/hexWars/main/61.jpg" width=200px height=125px>
+<img src="61.jpg" width=160px height=100px>
+
+<img src="53.jpg" width=160px height=100px>
+
+<img src="61-2.jpg" width=160px height=200px>
 
 ## 📜 Personal
 
