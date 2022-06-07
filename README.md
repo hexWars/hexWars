@@ -37,8 +37,6 @@
 
 &nbsp;
 
-&nbsp;
-
 ## 📷 Memory
 
 <div style="display: inline-block;">
