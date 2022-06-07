@@ -32,11 +32,11 @@
 
 ## 📷 Memory
 
-<img src="61.jpg" width=160px height=100px>
+<img align='left' src="61.jpg" width=160px height=100px>
 
-<img src="53.jpg" width=160px height=100px>
+<img align='left' src="53.jpg" width=160px height=100px>
 
-<img src="61-2.jpg" width=160px height=200px>
+<img align='left' src="61-2.jpg" width=160px height=200px>
 
 ## 📜 Personal
 
