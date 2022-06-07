@@ -22,8 +22,8 @@
 :computer:𝕴'𝖒 𝖙𝖗𝖞𝖎𝖓𝖌 𝖙𝖔 𝖑𝖊𝖆𝖗𝖓 𝕴𝕿 𝖙𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖞
 
 
-
-![61](61.jpg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E4E4E4&lines=The+darkest+hour+is+that+before+the+dawn.+)](https://git.io/typing-svg)
+![61](https://raw.githubusercontent.com/hexWars/hexWars/main/61.jpg)
 
 ## 📜 Personal
 
