@@ -37,17 +37,13 @@
     <div>
         <img align='left' src="53.jpg" width=160px height=100px>
     </div>
-    <div>
-        <img align='left' src="61-2.jpg" width=160px height=200px>
-    </div>
 </div>
 
 
 
 
 
-
-
+<br>
 
 
 ## 📜 Personal
