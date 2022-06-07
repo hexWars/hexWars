@@ -1,8 +1,8 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Cai wj
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
 
-<img align='left' src="https://github-readme-streak-stats.herokuapp.com?user=hexWars&theme=tokyonight">
+<img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=hexWars&theme=tokyonight">
 
 [![](https://img.shields.io/badge/-@hexWars-%23181717?style=flat-square&logo=github)](https://github.com/hexWars)
 [![](https://img.shields.io/badge/-@hexWars-%23000000?style=flat-square&logo=gitee)](https://gitee.com/hex-cxm)
