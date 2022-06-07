@@ -25,7 +25,6 @@
 
 :computer:𝕴'𝖒 𝖙𝖗𝖞𝖎𝖓𝖌 𝖙𝖔 𝖑𝖊𝖆𝖗𝖓 𝕴𝕿 𝖙𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖞
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E4E4E4&lines=The+darkest+hour+is+that+before+the+dawn.+)](https://git.io/typing-svg)
 
 ## 📷 Memory
@@ -37,9 +36,11 @@
     <div>
         <img align='left' src="53.jpg" width=160px height=100px>
     </div>
+    <div>
+        <img align='left' src="61-2.jpg" width=160px height=100px>
+    </div>
 </div>
-<br><br>
-&nbsp;
+
 
 &nbsp;
 
