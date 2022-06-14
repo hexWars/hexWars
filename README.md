@@ -12,6 +12,10 @@
 [![](https://img.shields.io/badge/-@Dueser-%23000000?style=flat-square&logo=codeforces)](https://codeforces.com/profile/Dueser)
 
 <a href="https://github.com/hexWars">
+  <img src="https://stats.justsong.cn/api/leetcode?username=hexwars&cn=true&theme=dark">
+</a>
+
+<a href="https://github.com/hexWars">
   <img src="https://badges.pufler.dev/years/hexWars?style=flat-square&color=black&logo=github">
 </a>
 <a href="https://github.com/hexWars?tab=repositories">
