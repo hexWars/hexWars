@@ -45,7 +45,7 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hexWars&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Metrics](https://metrics.lecoq.io/hexWars?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
+<img src="https://metrics.lecoq.io/hexWars?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai">
 
 ## 📷 Memory
 
