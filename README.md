@@ -16,7 +16,7 @@
 
 <img width="400px" src="https://metrics.lecoq.io/hexWars?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai">
 
-<img align='left' src="https://stats.justsong.cn/api/leetcode?username=hexwars&cn=true&theme=dark" width="300px">
+
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight" width="400px">
 
