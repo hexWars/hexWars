@@ -14,7 +14,7 @@
   <img src="https://wakatime.com/badge/user/05a07c08-5f73-4506-8c28-410e368c2294.svg?style=flat-square" alt="Total time coded since Dec 6 2021" >
 </a>
 
-<img align='left' src="https://stats.justsong.cn/api/leetcode?username=hexwars&cn=true&theme=dark">
+<img align='left' src="https://stats.justsong.cn/api/leetcode?username=hexwars&cn=true&theme=dark" width="350px">
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
 
