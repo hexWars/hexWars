@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E4E4E4&lines=Live+well+and+meet+slowly.)](https://git.io/typing-svg)
 
+<img align='right' src="https://badges.pufler.dev/years/hexWars?style=flat-square&color=black&logo=github">
+
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
 
 <img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=hexWars&theme=tokyonight">
@@ -11,13 +13,7 @@
 [![](https://img.shields.io/badge/-@hexWars-%23000000?style=flat-square&logo=leetcode)](https://leetcode-cn.com/u/hexWars/)
 [![](https://img.shields.io/badge/-@Dueser-%23000000?style=flat-square&logo=codeforces)](https://codeforces.com/profile/Dueser)
 
-<a href="https://github.com/hexWars">
-  <img src="https://stats.justsong.cn/api/leetcode?username=hexwars&cn=true&theme=dark">
-</a>
 
-<a href="https://github.com/hexWars">
-  <img src="https://badges.pufler.dev/years/hexWars?style=flat-square&color=black&logo=github">
-</a>
 <a href="https://github.com/hexWars?tab=repositories">
    <img src="https://badges.pufler.dev/repos/hexWars?style=flat-square&color=black&logo=github">
 </a>
