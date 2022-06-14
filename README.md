@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E4E4E4&lines=Live+well+and+meet+slowly.)](https://git.io/typing-svg)
 
-<img align='right' src="https://badges.pufler.dev/years/hexWars?style=flat-square&color=black&logo=github">
+<img align='right' src="https://stats.justsong.cn/api/leetcode?username=hexwars&cn=true&theme=dark">
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
 
