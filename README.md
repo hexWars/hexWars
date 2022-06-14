@@ -37,6 +37,8 @@
 
 &nbsp;
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hexWars&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 📷 Memory
 
 <div style="display: inline-block;">
