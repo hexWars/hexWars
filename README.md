@@ -47,22 +47,7 @@
 
 <img src="https://metrics.lecoq.io/hexWars?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai">
 
-## 📷 Memory
 
-<div style="display: inline-block;">
-    <div>
-		<img align='left' src="61.jpg" width=160px height=100px>
-    </div>
-    <div>
-        <img align='left' src="53.jpg" width=160px height=100px>
-    </div>
-    <div>
-        <img align='left' src="61-2.jpg" width=160px height=100px>
-    </div>
-    <div>
-        <img align='left' src="61-3.jpg" width=160px height=100px>
-    </div>
-</div>
 
 <br>
 
