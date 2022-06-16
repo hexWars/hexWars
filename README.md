@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Cai wj
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Cai
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E4E4E4&lines=Live+well+and+meet+slowly.)](https://git.io/typing-svg)
 
