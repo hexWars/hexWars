@@ -25,6 +25,10 @@
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/hexWars/hexWars/assets/github-contribution-grid-snake.svg" /></div>
 
+![](https://raw.githubusercontent.com/hexWars/hexWars/main/assets/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/hexWars/hexWars/blob/output/github-contribution-grid-snake.svg)
+
 ## My Stats
 
 <img align='left' src="https://metrics.lecoq.io/hexWars?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai">
