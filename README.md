@@ -21,11 +21,11 @@
 
 ## My Github Contributions
 
-![](https://raw.githubusercontent.com/hexWars/hexWars/main/assets/github-contribution-grid-snake.svg)
+![11](https://raw.githubusercontent.com/hexWars/hexWars/main/assets/github-contribution-grid-snake.svg)
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/hexWars/hexWars/assets/github-contribution-grid-snake.svg" /></div>
 
-![](https://raw.githubusercontent.com/hexWars/hexWars/main/assets/github-contribution-grid-snake.svg)
+![22](https://raw.githubusercontent.com/hexWars/hexWars/main/assets/github-contribution-grid-snake.svg)
 
 ![Snake animation](https://github.com/hexWars/hexWars/blob/output/github-contribution-grid-snake.svg)
 
