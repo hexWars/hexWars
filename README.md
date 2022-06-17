@@ -21,7 +21,7 @@
 
 ## My Github Contributions
 
-![](https://raw.githubusercontent.com/hexWars/hexWars/main/assets/github-contribution-grid-snake.svg)
+![](https://github.com/hexWars/hexWars/blob/output/github-contribution-grid-snake.svg)
 
 ## My Stats
 
