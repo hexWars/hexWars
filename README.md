@@ -19,24 +19,54 @@
   <img src="https://wakatime.com/badge/user/05a07c08-5f73-4506-8c28-410e368c2294.svg?style=flat-square" alt="Total time coded since Dec 6 2021" >
 </a>
 
-<img align='left' src="https://metrics.lecoq.io/hexWars?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai" width="400px">
+<img align='left' src="https://metrics.lecoq.io/hexWars?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai">
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight" width="400px">
+<details>
+<summary>General Stats</summary>
+<div alig="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
+    </a>
+</div>
+</details>
 
-<img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=hexWars&theme=tokyonight" width="400px">
+<details>
+<summary>Streak Stats</summary>
+<div alig="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=hexWars&theme=tokyonight">
+    </a>
+</div>
+</details>
+
+<details>
+<summary>Top languages</summary>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexWars&layout=compact&theme=tokyonight" alt="most used languages" />
+    </a>
+    <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+</details>
+
+<details>
+<summary>Contribution Graph</summary>
+<div alig="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://activity-graph.herokuapp.com/graph?username=hexWars&theme=react-dark">
+    </a>
+</div>
+</details>
 
 
 
-<br>
-<br>
-<br>
 
 
 
 
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hexWars&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 
 
 
