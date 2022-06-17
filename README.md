@@ -31,7 +31,7 @@
 <summary>General Stats</summary>
 <div alig="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
+        <img width="250px" src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
     </a>
 </div>
 </details>
@@ -40,7 +40,7 @@
 <summary>Streak Stats</summary>
 <div alig="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=hexWars&theme=tokyonight">
+        <img width="250px" src="https://github-readme-streak-stats.herokuapp.com?user=hexWars&theme=tokyonight">
     </a>
 </div>
 </details>
@@ -48,7 +48,7 @@
 <details>
 <summary>Top languages</summary>
    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexWars&layout=compact&theme=tokyonight" alt="most used languages" />
+        <img width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexWars&layout=compact&theme=tokyonight" alt="most used languages" />
     </a>
     <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </details>
