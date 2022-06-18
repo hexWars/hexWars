@@ -21,7 +21,7 @@
 
 ## My Github Contributions
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/hexWars/hexWars/assets/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/hexWars/hexWars/main/assets/github-contribution-grid-snake.svg" /></div>
 
 ## My Stats
 
