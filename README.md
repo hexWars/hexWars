@@ -12,9 +12,7 @@
 :computer:𝕴'𝖒 𝖙𝖗𝖞𝖎𝖓𝖌 𝖙𝖔 𝖑𝖊𝖆𝖗𝖓 𝕴𝕿 𝖙𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖞
 
 <br>
-<a href="https://github.com/hexWars?tab=repositories">
-   <img src="https://badges.pufler.dev/repos/hexWars?style=flat-square&color=black&logo=github">
-</a>
+
 <a href="https://wakatime.com/@05a07c08-5f73-4506-8c28-410e368c2294">
   <img src="https://wakatime.com/badge/user/05a07c08-5f73-4506-8c28-410e368c2294.svg?style=flat-square" alt="Total time coded since Dec 6 2021" >
 </a>
