@@ -17,10 +17,6 @@
   <img src="https://wakatime.com/badge/user/05a07c08-5f73-4506-8c28-410e368c2294.svg?style=flat-square" alt="Total time coded since Dec 6 2021" >
 </a>
 
-## My Github Contributions
-
-<div align="center"><img src="https://raw.githubusercontent.com/hexWars/hexWars/main/assets/github-contribution-grid-snake.svg" /></div>
-
 ## My Stats
 
 <img align='left' src="https://metrics.lecoq.io/hexWars?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai">
