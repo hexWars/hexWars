@@ -46,30 +46,3 @@
     </a>
     <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </details>
-
-<details>
-<summary>Contribution Graph</summary>
-<div alig="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://activity-graph.herokuapp.com/graph?username=hexWars&theme=react-dark">
-    </a>
-</div>
-</details>
-
-
-
-
-
-
-
-## 📜 Personal
-
-- Personal website and blog: [https://blog.csdn.net/Dueser](https://blog.csdn.net/Dueser)
-- e-mail: cxm71701@gmail.com
-
-
-
-
-
-
-
