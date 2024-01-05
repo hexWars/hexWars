@@ -11,7 +11,7 @@
 
 # 🏷️About me
 
-- 📘: I'm a graduate this year.
+- 📖: A good beginning is half done.
 - ☑️: I'm interested in in many things.
 - 🎯: I'm currently learning Rust.
 - 📧: You can contact me through this [email](mailto:tech@sehnsucht.top).
