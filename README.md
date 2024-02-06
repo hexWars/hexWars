@@ -20,15 +20,3 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E4E4E4&lines=Live+well+and+meet+slowly.)](https://git.io/typing-svg)
 
-## 🌠My Stats
-
-<div alig="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width="300px" src="https://github-readme-stats.vercel.app/api?username=hexWars&show_icons=true&theme=tokyonight">
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width="320px" src="https://github-readme-streak-stats.herokuapp.com?user=hexWars&theme=tokyonight">
-    </a>
-</div>
-
-
