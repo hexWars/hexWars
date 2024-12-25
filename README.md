@@ -9,9 +9,6 @@
     <a href="https://neovim.io"><img src="https://img.shields.io/badge/NeoVim-AstroNvim-98c379?style=for-the-badge&logo=neovim&color=7287fd&logoColor=7287fd&labelColor=1E1E2E" /></a>
 </div>
 <div align="center">
-   or
-</div>
-<div align="center">
   <a href="https://archlinux.org"><img src="https://img.shields.io/badge/OS-Windows_WSL-56b6c2?style=for-the-badge&logo=arch-linux&logoColor=FFDC87&color=FFD15F&labelColor=1E1E2E" /></a>
   <a href="https://www.jetbrains.com/idea"><img src="https://img.shields.io/badge/IDE-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=FFDC87&color=FFD15F&labelColor=1E1E2E" /></a>
   <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=comma&logoColor=FFDC87&color=FFD15F&labelColor=1E1E2E" /></a>
