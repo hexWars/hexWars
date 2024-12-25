@@ -1,12 +1,20 @@
-<h2 align="center">𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Cai</h2>
+<h2 align="center">𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 hexer</h2>
 
 <h3 align="center">A passionate Developer.</h3>
 
 <div align="center">
-  <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logoColor=7287fd&logo=linux&color=7287fd&labelColor=1E1E2E" /></a>
-	<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux&logoColor=7287fd&color=7287fd&labelColor=1E1E2E" /></a>
+    <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logoColor=7287fd&logo=linux&color=7287fd&labelColor=1E1E2E" /></a>
+    <a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux&logoColor=7287fd&color=7287fd&labelColor=1E1E2E" /></a>
     <a href="https://dwm.suckless.org"><img src="https://img.shields.io/badge/DE-KDE-005577?style=for-the-badge&logo=kde&color=7287fd&logoColor=7287fd&labelColor=1E1E2E" /></a>
-	<a href="https://neovim.io"><img src="https://img.shields.io/badge/NeoVim-AstroNvim-98c379?style=for-the-badge&logo=neovim&color=7287fd&logoColor=7287fd&labelColor=1E1E2E" /></a>
+    <a href="https://neovim.io"><img src="https://img.shields.io/badge/NeoVim-AstroNvim-98c379?style=for-the-badge&logo=neovim&color=7287fd&logoColor=7287fd&labelColor=1E1E2E" /></a>
+</div>
+<div align="center">
+   or
+</div>
+<div align="center">
+  <a href="https://archlinux.org"><img src="https://img.shields.io/badge/OS-Windows_WSL-56b6c2?style=for-the-badge&logo=arch-linux&logoColor=FFDC87&color=FFD15F&labelColor=1E1E2E" /></a>
+  <a href="https://www.jetbrains.com/idea"><img src="https://img.shields.io/badge/IDE-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=FFDC87&color=FFD15F&labelColor=1E1E2E" /></a>
+  <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=comma&logoColor=FFDC87&color=FFD15F&labelColor=1E1E2E" /></a>
 </div>
 
 # 🏷️About me
